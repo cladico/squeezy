@@ -1,4 +1,4 @@
-easy-peasy
+Easy Peasy
 ==========
 
-Easy peasy, lemon squeezy
+Easy peasy, lemon squeezy!
