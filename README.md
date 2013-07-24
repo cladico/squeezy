@@ -1,4 +1,3 @@
 Easy Peasy
 ==========
-
-Easy peasy, lemon squeezy!
+This CMS is squeezy!
