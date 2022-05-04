@@ -1,3 +1,3 @@
-Easy Peasy
+Squeezy
 ==========
-This CMS is squeezy!
+easy peasy this cms is squeezy!
